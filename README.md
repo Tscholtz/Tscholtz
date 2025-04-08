@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TarynS
+- 👋 Hi, I’m @TarynScholtz
 - 👀 I’m interested in biking and coding
 - 🌱 I’m currently learning FullStack Web Developer at Zaio
 - 💞️ I’m looking to collaborate on any projects related to my course
